@@ -1,5 +1,5 @@
 import { ArrowDown } from 'lucide-react';
-import profileImage from '../assets/self.jpg';
+import profileImage from '../assets/meee.jpg';
 import { personalInfo } from '../data/portfolioData';
 
 const Hero = () => {
@@ -11,7 +11,7 @@ const Hero = () => {
           <div className="space-y-8">
             <div className="space-y-4">
               <h1 className="text-6xl md:text-8xl font-bold text-black leading-tight">
-              JOHN LLOYD <span className="text-red-500">RENZO</span> CASTILLO
+              Mhyles Marinas
               </h1>
               <div className="space-y-2">
                 <p className="text-lg text-gray-600 max-w-md">

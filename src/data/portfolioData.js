@@ -1,14 +1,14 @@
 // Portfolio Data - Edit this file to update your portfolio content
 
 export const personalInfo = {
-  name: "John Lloyd Renzo R. Castillo",
+  name: "Mhyles Marinas",
   title: "AV Technical Support Specialist",
   subtitle: "Technical support specialist ensuring seamless AV experiences that make an impact.",
   location: "Taytay, Rizal",
   email: "castillojohnlloydrenzo@gmai.com",
   phone: "+639271126259",
   bio: [
-    "I’m a dedicated AV Technical Support Specialist passionate about delivering seamless audio-visual experiences that combine technical precision with engaging presentation.",
+    "asd",
     "With expertise in both hardware setup and software integration, I ensure systems run smoothly through efficient troubleshooting and innovative solutions.",
     "When I’m not working on AV systems, you’ll find me exploring new technologies, learning advanced AV tools, or planning creative system configurations."
   ]
