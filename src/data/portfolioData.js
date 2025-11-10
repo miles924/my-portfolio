@@ -2,11 +2,11 @@
 
 export const personalInfo = {
   name: "Mhyles Marinas",
-  title: "AV Technical Support Specialist",
+  title: "Jr system Engineer",
   subtitle: "Technical support specialist ensuring seamless AV experiences that make an impact.",
-  location: "Taytay, Rizal",
-  email: "castillojohnlloydrenzo@gmai.com",
-  phone: "+639271126259",
+  location: "Hulo, Maandaluyong",
+  email: "marinasmhyles24@gmail.com",
+  phone: "+639091179620",
   bio: [
     "asd",
     "With expertise in both hardware setup and software integration, I ensure systems run smoothly through efficient troubleshooting and innovative solutions.",
